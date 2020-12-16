@@ -1,0 +1,3 @@
+function ProblemName(): void {
+
+};
